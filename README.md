@@ -1,5 +1,7 @@
 # Laravel Coming Soon page
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/bitweu/coming-soon.svg?style=flat-square)](https://packagist.org/packages/bitweu/coming-soon)
+[![Total Downloads](https://img.shields.io/packagist/dt/bitweu/coming-soon.svg?style=flat-square)](https://packagist.org/packages/bitweu/coming-soon)
 [![Build Status](https://travis-ci.org/bitweu/laravel-coming-soon.svg?branch=master)](https://travis-ci.org/bitweu/laravel-coming-soon)
 
 ![laravel-comingsoon](https://i.imgur.com/KCLCJIx.jpg "coming soon page")
