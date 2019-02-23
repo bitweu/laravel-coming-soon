@@ -42,4 +42,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-More: [bitw.eu](https://www.bitw.eu)
+More about bitw team: [bitw.eu](https://www.bitw.eu)
