@@ -1,0 +1,9 @@
+build
+composer.lock
+docs
+vendor
+coverage
+node_modules
+package-lock.json
+webpack.mix.js
+public/mix-manifest.json

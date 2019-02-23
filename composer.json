@@ -1,0 +1,56 @@
+{
+    "name": "bitweu/coming-soon",
+    "description": "Laravel package to display Comming Soon page",
+    "keywords": [
+        "bitw",
+        "bitweu",
+        "coming soon",
+        "laravel",
+        "bitweu-coming-soon"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nerijus Stakutis",
+            "email": "nerijus@bitw.eu",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "illuminate/support": "5.7.*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "3.7.*",
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bitweu\\ComingSoon\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bitweu\\ComingSoon\\Tests\\": "tests"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+    },
+    "config": {
+        "sort-package": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bitweu\\ComingSoon\\ComingSoonServiceProvider"
+            ]
+        }
+    }
+}
+
