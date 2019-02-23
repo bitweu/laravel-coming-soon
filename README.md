@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/bitweu/laravel-coming-soon.svg?branch=master)](https://travis-ci.org/bitweu/laravel-coming-soon)
 
+![laravel-comingsoon](https://cdn1.imggmi.com/uploads/2019/2/23/6b34b7368c089504f97869f2face2997-full.jpg "coming soon page")
+
 Very simple laravel package, to display "Coming soon" page
 
 ## Installation
