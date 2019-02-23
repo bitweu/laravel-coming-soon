@@ -19,7 +19,7 @@ composer require bitweu/coming-soon
 Publish package assets
 
 ```bash
-vendor:publish --provider="Bitweu\ComingSoon\ComingSoonServiceProvider" --force --tag="assets"
+php artisan vendor:publish --provider="Bitweu\ComingSoon\ComingSoonServiceProvider" --force --tag="assets"
 ```
 
 Register "Coming soon" view in your `web.php` routes file
