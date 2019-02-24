@@ -1,0 +1,7 @@
+/.gitignore		export-ignore
+/.travis.yml	export-ignore
+/.stylesi.yml	export-ignore
+/.gitattributes	export-ignore
+/test			export-ignore
+/phpunit.xml.dist export-ignore
+/webpack.mix.js.dist export-ignore
