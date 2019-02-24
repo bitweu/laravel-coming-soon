@@ -31,6 +31,16 @@ Route::get('/', function () {
 });
 ```
 
+## Configuration
+
+You can configure "Coming soon" page in your `.env` file
+
+```
+COMINGSOON_TITLE="Coming soon"
+COMINGSOON_INTRO="Something great is coming soon."
+COMINGSOON_BACKGROUND="coming-soon-bg.jpg"
+``
+
 ### Testing
 
 ``` bash
